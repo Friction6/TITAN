@@ -1,0 +1,1 @@
+To run, download the latest version of Python from Python.org, and check "add to path". For v0 2.4 or higher, press the windows key and type 'CMD'. Once command prompt is running, type "pip install matplotlib".
