@@ -1,0 +1,3 @@
+UPDATES
+
+v0 2.5 - added help function and removed password
